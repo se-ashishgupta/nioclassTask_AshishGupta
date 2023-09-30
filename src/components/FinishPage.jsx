@@ -28,7 +28,6 @@ const FinishPage = () => {
               className=" text-xl text-white flex justify-between items-center border-2 p-1 "
             >
               <span>{item.QuestionID}</span>
-              <span className="text-black">20</span>
             </div>
           ))}
         </div>
